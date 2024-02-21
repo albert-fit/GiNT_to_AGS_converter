@@ -1,0 +1,36 @@
+{
+    
+	"Table_list":{
+		"PROJ": "PROJ",
+		"POINT": "LOCA",
+		"BACKFILL": "BKFL"
+	},
+	
+	
+    "LOCA": {
+        "HOLE_CLST": "LOCA_CLST",
+        "HOLE_CNGE": "LOCA_CNGE",
+        "HOLE_ENDD": "LOCA_ENDD",
+        "HoleDepth": "LOCA_FDEP",
+        "Elevation": "LOCA_GL",
+        "PointID": "LOCA_ID",
+        "HOLE_LOCA2": "LOCA_LOCA",
+        "HOLE_LOCM": "LOCA_LOCM",
+        "HOLE_NATE": "LOCA_NATE",
+        "HOLE_NATN": "LOCA_NATN",
+        "HOLE_OFFS": "LOCA_OFFS",
+        "HOLE_STAR": "LOCA_STAR",
+        "HOLE_STAT": "LOCA_STAT",
+        "HOLE_TYPE": "LOCA_TYPE"
+    },
+	
+	"BKFL": {
+        "Base": "BKFL_BASE",
+        "HOLE_BACD": "BKFL_DATE",
+        "FILL_DESCRIPTION": "BKFL_DESC",
+        "FILL": "BKFL_LEG",
+        "Depth": "BKFL_TOP",
+        "PointID": "LOCA_ID"
+
+    }
+}
